@@ -9,7 +9,6 @@ import os
 import sys
 import time
 # BANNER
-input("sila tekan apa2 untuk teruskan ")
 os.system("clear")
 os.system("cat banner")
 
