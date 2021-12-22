@@ -9,5 +9,7 @@ $ git clone https://github.com/Braderlala/shell-finder
 
 $ cd shell-finder
 
+$ pip install -r requirment.txt
+
 $ python shell.py
 ```
